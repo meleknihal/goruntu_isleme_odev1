@@ -1,0 +1,14 @@
+C:\Users\melek\OneDrive\Masaüstü\melek nihal aydın\melek nihal aydın\bin\Debug\melek nihal aydın.exe.config
+C:\Users\melek\OneDrive\Masaüstü\melek nihal aydın\melek nihal aydın\bin\Debug\melek nihal aydın.exe
+C:\Users\melek\OneDrive\Masaüstü\melek nihal aydın\melek nihal aydın\bin\Debug\melek nihal aydın.pdb
+C:\Users\melek\OneDrive\Masaüstü\melek nihal aydın\melek nihal aydın\obj\Debug\melek nihal aydın.csprojResolveAssemblyReference.cache
+C:\Users\melek\OneDrive\Masaüstü\melek nihal aydın\melek nihal aydın\obj\Debug\melek_nihal_aydın.Form1.resources
+C:\Users\melek\OneDrive\Masaüstü\melek nihal aydın\melek nihal aydın\obj\Debug\melek_nihal_aydın.Form2.resources
+C:\Users\melek\OneDrive\Masaüstü\melek nihal aydın\melek nihal aydın\obj\Debug\melek_nihal_aydın.Properties.Resources.resources
+C:\Users\melek\OneDrive\Masaüstü\melek nihal aydın\melek nihal aydın\obj\Debug\melek nihal aydın.csproj.GenerateResource.Cache
+C:\Users\melek\OneDrive\Masaüstü\melek nihal aydın\melek nihal aydın\obj\Debug\melek nihal aydın.exe
+C:\Users\melek\OneDrive\Masaüstü\melek nihal aydın\melek nihal aydın\obj\Debug\melek nihal aydın.pdb
+C:\Users\melek\OneDrive\Masaüstü\melek nihal aydın\melek nihal aydın\obj\Debug\melek_nihal_aydın.Form3.resources
+C:\Users\melek\OneDrive\Masaüstü\melek nihal aydın\melek nihal aydın\obj\Debug\melek_nihal_aydın.Form4.resources
+C:\Users\melek\OneDrive\Masaüstü\melek nihal aydın\melek nihal aydın\obj\Debug\melek_nihal_aydın.Form5.resources
+C:\Users\melek\OneDrive\Masaüstü\melek nihal aydın\melek nihal aydın\obj\Debug\melek_nihal_aydın.Form6.resources
